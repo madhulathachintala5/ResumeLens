@@ -1,0 +1,6 @@
+{
+  "name": "ResumeLens - Professional AI Resume Analyzer & ATS Optimizer",
+  "description": "Executive resume analysis portal powered by automated n8n cloud workflows. Evaluate ATS parseability, keyword alignment, quantified achievements, and structural impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
